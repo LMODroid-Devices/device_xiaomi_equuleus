@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_equuleus.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_equuleus-user \
-    lmodroid_equuleus-userdebug \
-    lmodroid_equuleus-eng
